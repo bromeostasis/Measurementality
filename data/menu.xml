@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+    <item>
+	<xCoord>20</xCoord>
+        <yCoord>10</yCoord>
+	<rectWidth>92</rectWidth>
+        <source>images/icon.png</source>
+	<color>#1E90FF</color>
+        <text>"Tutorial 0!"</text>
+	<lvlSrc>data/tutorial0.xml</lvlSrc>
+    </item>
+    <item>
+	<xCoord>220</xCoord>
+        <yCoord>10</yCoord>
+	<rectWidth>92</rectWidth>
+        <source>images/icon.png</source>
+	<color>#1E90FF</color>
+        <text>"Tutorial 1!"</text>
+	<lvlSrc>data/tutorial1.xml</lvlSrc>
+    </item>
+    <item>
+	<xCoord>620</xCoord>
+	<yCoord>10</yCoord>
+	<rectWidth>92</rectWidth>
+        <source>images/icon.png</source>
+	<color>#1E90FF</color>
+        <text>"Ode to Joy!"</text>
+	<lvlSrc>data/OdeJoy.xml</lvlSrc>
+    </item>
+    <item>
+	<xCoord>420</xCoord>
+	<yCoord>10</yCoord>
+	<rectWidth>92</rectWidth>
+        <source>images/icon.png</source>
+	<color>#1E90FF</color>
+        <text>"Tutorial 2!"</text>
+	<lvlSrc>data/tutorial2.xml</lvlSrc>
+    </item>
+    <item>
+	<xCoord>820</xCoord>
+	<yCoord>10</yCoord>
+	<rectWidth>92</rectWidth>
+        <source>images/icon.png</source>
+	<color>#1E90FF</color>
+        <text>"Hot Cross Buns!"</text>
+	<lvlSrc>data/notes4.xml</lvlSrc>
+    </item>
+    <item>
+	<xCoord>1020</xCoord>
+	<yCoord>10</yCoord>
+	<rectWidth>92</rectWidth>
+        <source>images/icon.png</source>
+	<color>#1E90FF</color>
+        <text>"Tutorial 3!"</text>
+	<lvlSrc>data/tutorial3.xml</lvlSrc>
+    </item>
+    <item>
+	<xCoord>20</xCoord>
+	<yCoord>210</yCoord>
+	<rectWidth>92</rectWidth>
+        <source>images/icon.png</source>
+	<color>#1E90FF</color>
+        <text>"Tutorial 4!"</text>
+	<lvlSrc>data/tutorial4.xml</lvlSrc>
+    </item>
+
+    <item>
+	<xCoord>220</xCoord>
+	<yCoord>210</yCoord>
+	<rectWidth>92</rectWidth>
+        <source>images/icon.png</source>
+	<color>#1E90FF</color>
+        <text>"Yankeedude!"</text>
+	<lvlSrc>data/yankee.xml</lvlSrc>
+    </item>
+    <item>
+	<xCoord>420</xCoord>
+	<yCoord>210</yCoord>
+	<rectWidth>92</rectWidth>
+        <source>images/icon.png</source>
+	<color>#1E90FF</color>
+        <text>"MaryLamb!"</text>
+	<lvlSrc>data/MaryLamb.xml</lvlSrc>
+    </item>
+</menu>

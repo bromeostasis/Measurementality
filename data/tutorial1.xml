@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+    <item>
+	<type>n</type>
+	<note>q</note>
+        <letter>bKey</letter>
+	<accidental>n</accidental>
+	<octave>3</octave>
+	<wLetter>true</wLetter>
+    </item>
+    <item>
+	<type>n</type>
+	<note>h</note>
+        <letter>bKey</letter>
+	<accidental>n</accidental>
+	<octave>3</octave>
+	<wLetter>true</wLetter>
+    </item>
+    <item>
+	<type>n</type>
+	<note>w</note>
+        <letter>bKey</letter>
+	<accidental>n</accidental>
+	<octave>3</octave>
+	<wLetter>true</wLetter>
+    </item>
+</menu>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="744.09448" height="1052.3622" id="svg3912">
+  <title id="title3954">Eighth Rest</title>
+  <defs id="defs3914">
+    <linearGradient x1="262.36795" y1="49.627041" x2="268.80136" y2="133.84236" id="linearGradient3902" xlink:href="#linearGradient3013-0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.9275109,0,0,2.9275109,-554.67638,-69.165884)"/>
+    <linearGradient id="linearGradient3013-0">
+      <stop id="stop3015-2" style="stop-color:#000000;stop-opacity:0.8263889" offset="0"/>
+      <stop id="stop3017-3" style="stop-color:#000000;stop-opacity:1" offset="1"/>
+    </linearGradient>
+    <linearGradient x1="262.36795" y1="49.627041" x2="268.80136" y2="133.84236" id="linearGradient3935" xlink:href="#linearGradient3013-0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.9562645,0,0,2.9562645,-434.63707,268.14569)"/>
+  </defs>
+  <g id="layer1">
+    <path d="m 393.39588,441.74278 c 17.20961,-1.09498 24.82937,-18.44725 33.33703,-30.63059 5.28589,-7.56964 18.57665,-14.91241 24.90774,-8.79344 8.96496,8.6646 -7.76235,23.60805 -11.243,35.67362 -23.18263,77.87453 -46.29554,155.77943 -71.15997,233.13807 -6.56758,6.68021 -25.43735,6.07415 -27.88632,-2.03396 25.23154,-69.87199 50.46311,-139.744 75.69464,-209.61602 -26.0333,4.94311 -52.11016,11.93017 -78.76987,11.61116 -21.05531,-1.31851 -42.01419,-15.48532 -46.49812,-36.92276 -5.1756,-17.25807 0.047,-37.85978 15.53463,-48.125 16.48005,-12.75446 44.78856,-13.81108 57.29355,4.98601 9.53724,14.46385 6.41284,34.46434 18.52147,47.50214 2.8844,2.28463 6.63277,3.25328 10.26822,3.21077 z" id="path2986" style="fill:url(#linearGradient3935);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.9562645;stroke-linecap:round;stroke-linejoin:round"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Eighth Rest</dc:title>
+        <dc:date>2010-11-04T18:42:04</dc:date>
+        <dc:description>A single eighth rest.</dc:description>
+        <dc:source>http://openclipart.org/detail/93877/eighth-rest-by-jaschon</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>jaschon</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>music</rdf:li>
+            <rdf:li>music note</rdf:li>
+            <rdf:li>eighth</rdf:li>
+            <rdf:li>black and white</rdf:li>
+            <rdf:li>quaver</rdf:li>
+            <rdf:li>sound</rdf:li>
+            <rdf:li>staff</rdf:li>
+            <rdf:li>flag</rdf:li>
+            <rdf:li>musical notation</rdf:li>
+            <rdf:li>music note</rdf:li>
+            <rdf:li>rest</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

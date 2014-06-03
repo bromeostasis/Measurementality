@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+    <item>
+	<xCoord>144</xCoord>
+        <yCoord>144</yCoord>
+	<rectWidth>92</rectWidth>
+        <source>images/icon.png</source>
+	<color>#1E90FF</color>
+        <text>"LEVEL 1!"</text>
+	<lvlSrc>data/notes1.xml</lvlSrc>
+    </item>
+    <item>
+	<xCoord>350</xCoord>
+	<yCoord>144</yCoord>
+	<rectWidth>92</rectWidth>
+        <source>images/icon.png</source>
+	<color>#1E90FF</color>
+        <text>"LEVEL 2!"</text>
+	<lvlSrc>data/notes2.xml</lvlSrc>
+    </item>
+    <item>
+	<xCoord>556</xCoord>
+	<yCoord>144</yCoord>
+	<rectWidth>92</rectWidth>
+        <source>images/icon.png</source>
+	<color>#1E90FF</color>
+        <text>"LEVEL 3!"</text>
+	<lvlSrc>data/notes3.xml</lvlSrc>
+    </item>
+    <item>
+	<xCoord>906</xCoord>
+	<yCoord>144</yCoord>
+	<rectWidth>92</rectWidth>
+        <source>images/icon.png</source>
+	<color>#1E90FF</color>
+        <text>"LEVEL 4!"</text>
+	<lvlSrc>data/notes4.xml</lvlSrc>
+    </item>
+</menu>
